@@ -12,7 +12,7 @@
   "author": "Gaurav Sarkar",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.2.4"
+    "electron": "^9.4.0"
   },
   "devDependencies": {
     "electron-packager": "^9.0.1"
